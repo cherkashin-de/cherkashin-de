@@ -7,7 +7,7 @@
 ### Tech Stack:
 <p align="left">
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/spring.svg" width="40" height="40" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" width="40" height="40" alt="Spring"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/camunda.svg" width="40" height="40" alt="Camunda"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/docker.svg" width="40" height="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/postgresql.svg" width="40" height="40" alt="PostgreSQL"/>
