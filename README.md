@@ -1,4 +1,4 @@
-# Hi, I'm Denis Cherkashin, Middle Java developer <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
+# Hi, I'm Denis Cherkashin, Middle Java developer
 
 💼 I am working in <a href="https://github.com/magnit-tech">Magnit Tech</a>. <br>
 📋 My resume on habr or headhunter (in Russian). <br>
