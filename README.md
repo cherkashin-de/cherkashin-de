@@ -4,7 +4,7 @@
 📋 My resume on habr or headhunter (in Russian). <br>
 💬 Ask me about anything here. <br>
 
----
+<br>
 
 ### 🚀 Технологии и инструменты
 
