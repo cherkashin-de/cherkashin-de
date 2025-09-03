@@ -5,4 +5,4 @@
 💬 Ask me about anything <a href="t.me/cherkashin_de">here</a>. <br>
 
 My stack: <br>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" height="150" width="150">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" height="30" width="30">
