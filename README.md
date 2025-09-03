@@ -1,9 +1,8 @@
-# 👋 Привет, я Denis
+# Hi, I'm Denis Cherkashin, Middle Java developer <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-💻 **Java Developer** | Spring | Microservices | PostgreSQL | Docker | Kubernetes  
-
-🌱 Изучаю: System Design, Spring Cloud, Camunda  
-⚡ Люблю оптимизировать код и автоматизировать процессы  
+💼 I am working in <a link='https://github.com/magnit-tech'>Magnit Tech</a>.
+📋 My resume on habr or headhunter (in Russian).
+💬 Ask me about anything here.
 
 ---
 
